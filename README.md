@@ -23,5 +23,6 @@ Objetivos com Pygame:
 🔹 Colaborar com outros desenvolvedores e aprender com suas experiências
 🔹 Explorar o vasto campo das simulações e animações interativas
 
-Visitem : https://www.instagram.com/codenio_ubuntu/
-https://www.facebook.com/profile.php?id=61560374413854&mibextid=ZbWKwL
+Visitem : https://www.instagram.com/codenio_ubuntu/ 
+
+Visitem : https://www.facebook.com/profile.php?id=61560374413854&mibextid=ZbWKwL
